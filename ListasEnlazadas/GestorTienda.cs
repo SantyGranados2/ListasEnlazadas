@@ -2,14 +2,14 @@ public class GestorTienda
     {
         private ListaEnlazada<Tienda> tiendas = new ListaEnlazada<Tienda>();
 
-        public void AgregarTienda(string nombre)
+        public void AgregarTienda(string nombre, string nit, string direccion, string celular)
         {
-            tiendas.Agregar(new Tienda(nombre));
+            tiendas.Agregar(new Tienda(nombre, nit, direccion, celular));
         }
 
         public void EliminarTienda(string nombre)
         {
-            tiendas.Eliminar(t => t.Nombre == nombre);
+            tiendas.Eliminar(t => t.Nombre == nombre); 
         }
 
         public void ListarTiendas()

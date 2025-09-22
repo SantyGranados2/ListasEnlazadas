@@ -1,0 +1,15 @@
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.AssemblyInfoInputs.cache
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.AssemblyInfo.cs
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.csproj.CoreCompileInputs.cache
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.sourcelink.json
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\bin\Debug\net9.0\ListasEnlazadas.exe
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\bin\Debug\net9.0\ListasEnlazadas.deps.json
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\bin\Debug\net9.0\ListasEnlazadas.runtimeconfig.json
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\bin\Debug\net9.0\ListasEnlazadas.dll
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\bin\Debug\net9.0\ListasEnlazadas.pdb
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.dll
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\refint\ListasEnlazadas.dll
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.pdb
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ListasEnlazadas.genruntimeconfig.cache
+D:\Universidad\3 Semestre\Programacion II\ListasEnlazadas\ListasEnlazadas\obj\Debug\net9.0\ref\ListasEnlazadas.dll
